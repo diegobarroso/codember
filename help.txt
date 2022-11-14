@@ -1,0 +1,17 @@
+Bienvenido ...
+
+Para empezar a jugar, usa la terminal. Prueba a ejecutar el comando "help".
+
+$ help
+Algunos de los comandos disponibles son:
+
+hint - Te da una pista de cómo empezar
+share - Comparte Codember en Twitter
+version - Muestra la versión actual de Codember
+rank - Muestra la lista de los mejores participantes
+score - Muestra tu puntuación en los retos
+cat <archivo> - Muestra contenido del archivo
+cd <carpeta> - Entra en una carpeta
+clear - Limpia la consola
+
+¡Hay más comandos! Descúbrelos todos...
